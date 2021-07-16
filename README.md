@@ -30,7 +30,7 @@ The javascript was tweaked a little so that the flipper can generate colors infi
 ### Links
 
 - Solution URL: [My solution](https://github.com/kindnessrho/JS-Color-Flipper)
-- Live Site URL: [Live site](https://tributepage-sidehustle.netlify.app/)
+- Live Site URL: [Live site](https://jscolor-flipper.netlify.app/)
 
 ## My process
 
